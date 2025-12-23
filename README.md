@@ -17,7 +17,7 @@ The main objective is to identify trends and patterns that support better **inve
 ## Tools & Technologies
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebook
-- Microsoft Word (documentation)
+- SQL
 
 ---
 
